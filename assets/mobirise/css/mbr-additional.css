@@ -1370,7 +1370,7 @@ pre {
   background: #0f7699;
 }
 .cid-qs5xoSCliT .progress1 .progressbar-number:before {
-  content: '5';
+  content: '10';
 }
 .cid-qs5xoSCliT .progress2 .progressbar-number:before {
   content: '25';
@@ -1379,7 +1379,7 @@ pre {
   content: '30';
 }
 .cid-qs5xoSCliT .progress4 .progressbar-number:before {
-  content: '40';
+  content: '35';
 }
 .cid-qs5xoSCliT .progress-primary {
   background: rgba(206, 206, 206, 0.4);
